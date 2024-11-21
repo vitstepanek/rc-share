@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/local/stepvit/repo/gts/prisma/apps/inbound-bridge'
+let g:netrw_dirhist_2='/home/bt495/.vim/bundle/nerdtree'
+let g:netrw_dirhist_3='/sw/int/prisma/contint/prisma/apps/margin-query-interface/007.100.005/7100002.10/log'
+let g:netrw_dirhist_4='/local/bt495/repo/gts/prisma/apps/inbound-bridge'
